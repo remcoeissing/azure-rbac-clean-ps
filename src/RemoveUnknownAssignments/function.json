@@ -1,0 +1,9 @@
+{
+  "bindings": [
+    {
+      "name": "subscription",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ]
+}
